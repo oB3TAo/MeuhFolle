@@ -2,10 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "MeuhFolle.exe"
-		},
-		{
-			"path" : "MeuhFolle.pdb"
+			"path" : "MeuhFolle"
 		}
 	],
 	"backtrace" : 1,
@@ -38,7 +35,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -std=gnu++23 -fdiagnostics-color=always"
+					"fragment" : "-g -std=gnu++2b -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -fcolor-diagnostics"
 				}
 			],
 			"language" : "CXX",
@@ -68,16 +65,12 @@
 			{
 				"fragment" : "",
 				"role" : "flags"
-			},
-			{
-				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
-				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
 	"name" : "MeuhFolle",
-	"nameOnDisk" : "MeuhFolle.exe",
+	"nameOnDisk" : "MeuhFolle",
 	"paths" : 
 	{
 		"build" : ".",

@@ -7,7 +7,7 @@
 
 using namespace std;
 
-// Structure pour représenter un créneau
+// Structure afin de représenter un créneau
 struct Creneau {
     string libelle;
     string plage_horaire;
