@@ -92,7 +92,7 @@ pair<vector<Creneau>, vector<Benevole>> lire_fichier(const string& fichier) {
 
 // Exemple d'utilisation
 int main() {
-    string chemin_fichier = "..\\Pb0.csv"; // Chemin vers le fichier CSV
+    string chemin_fichier = "Pb0.csv"; // Chemin vers le fichier CSV
     auto [creneaux, benevoles] = lire_fichier(chemin_fichier); // Appel de la fonction lire_fichier
 
     cout << "Creneaux:" << endl;
