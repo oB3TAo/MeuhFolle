@@ -1,4 +1,3 @@
-280 creneaux
 Cr_1;19h-21h;Bar;2000
 Cr_2;19h-21h;Bar;8000
 Cr_3;19h-21h;Bar;5000
@@ -279,7 +278,6 @@ Cr_277;01h-03h;Snack;1000
 Cr_278;01h-03h;Snack;1000
 Cr_279;01h-03h;Snack;4000
 Cr_280;01h-03h;Snack;10000
-206 benevoles
 ben_1;Snack;Bar;Secu;nochoice;nochoice
 ben_2;Snack;Bar;Secu;ben_58;nochoice
 ben_3;Snack;Bar;Entree;nochoice;nochoice

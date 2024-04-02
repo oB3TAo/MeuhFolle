@@ -1,4 +1,3 @@
-25 creneaux
 Cr_1;19h-21h;Bar;7000
 Cr_2;21h-23h;Bar;6000
 Cr_3;21h-23h;Bar;1000
@@ -24,7 +23,6 @@ Cr_22;17h-19h;Snack;3000
 Cr_23;21h-23h;Snack;3000
 Cr_24;23h-01h;Snack;10000
 Cr_25;23h-01h;Snack;9000
-40 benevoles
 ben_1;Bar;Snack;Entree;ben_38;ben_13
 ben_2;Entree;Camping;Snack;ben_18;ben_34
 ben_3;Bar;Camping;Snack;ben_10;ben_39
